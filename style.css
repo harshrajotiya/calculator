@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 3vh;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+    font-weight: bold;
+    font-size: 5vh;
+    text-decoration: underline;
+}
+
+.calc{
+    background-image: url("https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60");
+    margin-left: 40vw;
+    margin-top: 10vh;
+    width: 30vw;
+}
+
+#inp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    width: 30vw;
+    font-size: 3vh;
+}
+.opr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: -29vw; */
+    margin-top: 2vh;
+}
+#opr1{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#opr2{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#opr3{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#opr4{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#key7{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#key8{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#key9{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 3vh;
+}
+#key4{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+#key5{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+#key6{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.8vw;
+    height: 3vh;
+}
+#key1{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+#key2{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+#key3{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.8vw;
+    height: 3vh;
+}
+#eq{
+    border: 2px solid;
+    padding: 4vh;
+    width: 3vw;
+    height: 36vh;
+}
+
+.key789{
+    display: flex;
+}
+
+.key456{
+    margin-top: -33vh;
+    display: flex;
+}
+
+.key123{
+    display: flex;
+}
+
+.key0pc{
+    display: flex;
+}
+
+#key0{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+
+#keyp{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.7vw;
+    height: 3vh;
+}
+
+#keyc{
+    border: 2px solid;
+    padding: 4vh;
+    width: 2.8vw;
+    height: 3vh;
+}
